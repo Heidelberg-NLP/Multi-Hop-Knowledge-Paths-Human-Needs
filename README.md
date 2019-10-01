@@ -73,7 +73,7 @@ Please find the data format in data_prep
 
 ### Finally, to run the neural model: 
 ~~~
-./src/neural_model/run_experiment.sh
+bash /src/neural_model/run_experiment.sh
 ~~~
 
 
